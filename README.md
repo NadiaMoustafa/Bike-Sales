@@ -18,4 +18,4 @@ I used Advanced functions in analysis and Pivot tables to answer the questions f
 Finally, i did The Dashboard with various charts in EXCEL.
 
 
-you can find the whole project in my googlesheet : [Bike Sales Project](https://docs.google.com/spreadsheets/d/1x-yXqeKOkczmgvf4YtTSQfeLLF-DRZ42BG0CfGykaM0/edit?usp=sharing).
+you can find the whole project in my google sheet : [Bike Sales Project](https://docs.google.com/spreadsheets/d/1x-yXqeKOkczmgvf4YtTSQfeLLF-DRZ42BG0CfGykaM0/edit?usp=sharing).
