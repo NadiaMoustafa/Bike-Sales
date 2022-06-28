@@ -1,4 +1,4 @@
-# Bikes-Sales
+# Bike-Sales
 
 In this project, i used bikes sales system data in USA to show the details about it in depth and make analysis to give useful insights by EXCEL.
 
